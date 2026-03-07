@@ -1,0 +1,14 @@
+C:\Users\Jefferson\hello-world-program\bin\Debug\net10.0\hello-world-program.exe
+C:\Users\Jefferson\hello-world-program\bin\Debug\net10.0\hello-world-program.deps.json
+C:\Users\Jefferson\hello-world-program\bin\Debug\net10.0\hello-world-program.runtimeconfig.json
+C:\Users\Jefferson\hello-world-program\bin\Debug\net10.0\hello-world-program.dll
+C:\Users\Jefferson\hello-world-program\bin\Debug\net10.0\hello-world-program.pdb
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.AssemblyInfoInputs.cache
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.AssemblyInfo.cs
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.dll
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\refint\hello-world-program.dll
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.pdb
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.genruntimeconfig.cache
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\ref\hello-world-program.dll
