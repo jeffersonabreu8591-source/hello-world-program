@@ -4,7 +4,6 @@ As a software engineer, I am continually working to strengthen my understanding 
 
 The software is a simple console application written in C#. When the program runs, it prints a message to the console displaying "Hello World" along with a brief introduction.
 
-The purpose of this software is to demonstrate a working development environment, basic program execution, and the ability to document and present a software project. It also serves as a starting point for building more complex applications in the future.
 
 [Software Demo Video](https://youtube.com/your-video-link)
 
