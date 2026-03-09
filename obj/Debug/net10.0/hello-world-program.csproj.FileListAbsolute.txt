@@ -12,3 +12,4 @@ C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\refint\hello-world-prog
 C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.pdb
 C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.genruntimeconfig.cache
 C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\ref\hello-world-program.dll
+C:\Users\Jefferson\hello-world-program\obj\Debug\net10.0\hello-world-program.sourcelink.json

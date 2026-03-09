@@ -20,4 +20,4 @@ It was created as the first assignment for the CSE 310 course.
 
 ## Video Demonstration
 
-YouTube Video: 
+YouTube Video: https://youtu.be/wVQ25bJ3kS8
